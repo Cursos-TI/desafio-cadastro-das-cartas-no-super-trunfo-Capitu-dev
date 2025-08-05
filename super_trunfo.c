@@ -31,3 +31,7 @@ int main(){
 
     return 0;
     }
+// Professor, acho que nao tive certeza se entendi como finalizar o programa, e de primeira, eu pensei que eu teria que colocar
+    // a leitura das duas cartas em um programa só, entendi errado, pesquisei algumas coisas como separar o nome da cidade
+    // ou como deixar dois nomes nas variaveis. Achei como modificar isso mas depois me arrependi de ter ido procurar e fiz o 
+    // programa todo do zero novamente da forma mais simples que aprendi. Testei no Visual e deu tudo certo. 
