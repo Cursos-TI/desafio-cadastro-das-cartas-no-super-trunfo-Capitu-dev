@@ -1,0 +1,9 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "files.associations": {
+        "LONG-DOUBLE.C": "cpp",
+        "MESTRE.C": "cpp"
+    }
+}
